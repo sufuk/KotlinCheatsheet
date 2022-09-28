@@ -14,4 +14,13 @@ fun main(args: Array<String>) {
     dataTypes()
 
     strings()
+
+    cond()
+
+    ranges()
+
+    arrays()
+
+    functions()
+
 }

@@ -14,4 +14,17 @@ fun strings(){
 
     val txt3 = "Please locate where 'locate' occurs!"
     println(txt3.indexOf("locate"))  // Outputs 7
+
+    // using quotes in strings
+    var txt4 = "It's alright"
+    var txt5 = "That's great"
+
+    //string contantation
+    var firstName = "John"
+    var lastName = "Doe"
+    println(firstName + " " + lastName)
+    println(firstName.plus(lastName))
+
+    //another way to access strings
+    println("My name is $firstName $lastName")
 }
