@@ -24,4 +24,6 @@ fun main(args: Array<String>) {
     functions()
 
     oop()
+
+    nullability()
 }
